@@ -1,0 +1,38 @@
+html {
+  background-color: white;
+}
+
+p {
+  color: turquoise;
+  font-size: 24px;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+header {
+  background-color: aquamarine;
+  color: white;
+  border: 5px solid lightseagreen;
+}
+
+h1 {
+  color: white;
+  margin-right: 100px;
+  margin-left: 100px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 16px;
+  font-size: 80px;
+  text-align: center;
+}
+
+.picture {
+    float: left;
+    width:  260px;
+    height: 183px;
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    border: 5px solid lightseagreen;
+    border-style: dashed;
+}
